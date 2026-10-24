@@ -32,8 +32,8 @@ uv run simple-llm-call
 
 The app asks the model how many moons Jupiter has, repeats the question with a
 short-answer system prompt, then compares a coffee-shop tagline at temperatures
-`0` and `1`. The temperature demo uses the `gemini-2.5-flash` model; make sure
-your server supports that model name.
+`0` and `1`. Both demos use the model configured by `GEMINI_MODEL`; ensure the
+model name is supported by your local server.
 
 ## Project layout
 
