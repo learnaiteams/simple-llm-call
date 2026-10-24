@@ -1,0 +1,2 @@
+GEMINI_API_URL=http://192.168.29.174:8081/v1beta/models
+GEMINI_MODEL=gemini-3.7-flash
